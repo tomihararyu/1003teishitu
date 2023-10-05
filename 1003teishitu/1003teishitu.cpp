@@ -2,10 +2,10 @@
 //
 
 #include <iostream>
-
+void sum();
 int main()
 {
-    std::cout << "Hello World!\n";
+    sum();
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
